@@ -1,0 +1,9 @@
+{
+  "name": "nx-pnpm",
+  "private": true,
+  "scripts": {
+
+  },
+  "author": "dayatz",
+  "license": "MIT"
+}
